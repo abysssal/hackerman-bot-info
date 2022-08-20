@@ -3,3 +3,4 @@ JOIN MY DISCORD SERVER: https://discord.com/invite/a6fmaXts9c
 
 /ping : says pong if it works, good for testing
 /hackerman-info : gives you a bit of info about the bot, and a GitHub page for the commands exactly like this one
+/dev : gives you information about Abyssal, the developer
